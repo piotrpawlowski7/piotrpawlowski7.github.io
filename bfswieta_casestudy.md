@@ -1,6 +1,9 @@
 ## Case Study projektu pocztówki internetowej
 **Opis projektu:** Celem projektu było zdigitalizowanie pocztówki świątecznej, którą firma dotychczas wysyłała na Święta do swoich klientów.
 
+**Wykorzystane technologie:** HTML, CSS, JavaScript
+**Wykorzystane dodatkowe oprogramowanie:** Adobe Illustrator, Adobe Xd
+
 ### 1. Założenia projektu
 
 
@@ -26,9 +29,13 @@ a jej kod jest dostępny [tutaj](https://github.com/piotrpawlowski7/bfswieta_v1)
 ### 3. Nowy projekt
 - Na etapie ustaleń doszliśmy do kolejnych założeń: finalny efekt powinien być czysty, nowoczesny, przejrzysty; Konieczne było zerwanie z projektem graficznym pocztówki i zaprojektowanie całego rozwiązania na nowo.
 - Czas. Nie było możliwości całkowitej zmiany przygotowanych grafik. Nowy projekt musiał mieć tę samą bazę, ale całkowicie nową otoczkę.
-- Przygotowanie nowej strony uwzględniająć kolejne założenia.
+- Odejście od One Page Site na rzecz wdrożenia rozwiązania typu fullpage (z niewidzialnym scrollem), dzięki czemu dana sekcja zajmuje całą stronę i mamy większą kontrolę nad contentem. Wyzwania -> wykorzystany skrypt fullpage.js renderuje całą stronę po pierwszym wczytaniu, w związku z tym kolejne strony są tylko odpytywane. Stanowi to wyzwanie na dalszym etapie dodawania animacji na stronie (animacje ładują się na etapie wczytywania, czyli kończą zanim "zjedziesz na dół")
 - Konpecja dalej zakłada "list-pocztówkę", idealnie pasującym do formatu i gotowych materiałów.
 - Do podkreślenia koncepcji listu wykorzystano animacje "typewriter" - efekt pisania. Dzięki temu strona stała się przyjemniejsza wizualnie.
+
+Dla należytej kolejności pracy wykonałem szkic w Adobe Xd, który wyglądał następująco i zawierał dodatkowe elementy:
+- wykorzystanie grafiki z kieliszkami z projektu pocztówki (do zaanimowania na dalszym etapie)
+- większy podział treści.
 
 <img src="images/casestudy/sketch_xd_2.png?raw=true"/>
 
@@ -39,12 +46,10 @@ Gotowa strona wyeulowała na etapie projektu.
 
 <img src="images/casestudy/1.png?raw=true"/>
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
 <img src="images/casestudy/2.png?raw=true"/>
 <img src="images/casestudy/3.png?raw=true"/>
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
 <img src="images/casestudy/4.png?raw=true"/>
 
