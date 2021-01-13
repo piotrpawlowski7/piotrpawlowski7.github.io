@@ -3,6 +3,7 @@
 
 **Wykorzystane technologie:** Wordpress, HTML, CSS
 <br>
+
 **Lata realizacji**: 2015-2018
 ### 1. Strona domowa AndrzejSmiech.com
 
