@@ -1,7 +1,8 @@
-## Case Study projektu pocztówki internetowej
-**Opis projektu:** Celem projektu było zdigitalizowanie pocztówki świątecznej, którą firma dotychczas wysyłała na Święta do swoich klientów.
+## Projekty oparte o Wodpress
+**Opis projektu:** Różne projekty oparte o stałe rozwiązania (Wordpress).
 
-**Wykorzystane technologie:** Wordpress, HTML, CSS, 
+**Wykorzystane technologie:** Wordpress, HTML, CSS
+<br>
 **Lata realizacji**: 2015-2018
 ### 1. Strona domowa AndrzejSmiech.com
 
