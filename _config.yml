@@ -1,12 +1,19 @@
-title: Piotr Pawłowski # your name (or website title) here
+title: Piotr Pawłowski 
 logo: "/images/logo.png?raw=true" # your photo (or logo) here http://ppawlowski.pl/assets/img.jpg
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+description: >
+  I'm creative freelancer working in film and photogrpahy industry. I put my first steps in web development around 2005 when playing games with my clan. Yet I was more into design and creation, so i haven't gone into coding. 
+
+  I used to build sites on Wordpress. Now I make a step to become Front-End developer (or even a Full-Stack).
   <br><br>
-  Second description 
+  I currently work mostly with HTML, CSS and basics of JavaScript. I love how todays browser's technologies can deliver dynamic and animated sites.
   <br><br>
   <a href="https://www.ppawlowski.pl/">View My personal site</a> 
+  <br>
   <a href="mailto:ppawlowski7@gmail.com">Send me an e-mail</a> 
-
+<br>
+<br>
+Check my <a href="https://www.filmpawlowski.pl/">Vimeo account</a>
+<br>
+or photography site  <a href="https://www.studiopawlowski.pl/">Studio Pawlowski</a>
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: UA-000000-0 #Google Analytics tracking ID
