@@ -2,6 +2,8 @@
 **Opis projektu:** Celem projektu było zdigitalizowanie pocztówki świątecznej, którą firma dotychczas wysyłała na Święta do swoich klientów.
 
 **Wykorzystane technologie:** HTML, CSS, JavaScript
+<br>
+
 **Wykorzystane dodatkowe oprogramowanie:** Adobe Illustrator, Adobe Xd
 
 ### 1. Założenia projektu
