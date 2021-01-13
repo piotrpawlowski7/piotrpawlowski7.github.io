@@ -13,24 +13,28 @@ Celem projektu było zdigitalizowanie pocztówki świątecznej, którą firma do
 - wykorzystanie efektu parallaxy do przygotowanych grafik
 - zapewnienie responsywności strony (Desktop+mobile)
 
-<img src="images/casestudy/crop1.png?raw=true"/>
-
 Całość projektu wyglądała następująco:
-<img src="images/casestudy/full_sm.png?raw=true"/>
+<img src="images/casestudy/kartka.png?raw=true"/>
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
 ### 2. Wyzwania
 - Projekt graficzny nie był projektowany na potrzeby strony internetowej (niemożliwość zastosowania opływania wokół grafik, obszerność tekstów)
 - Przygotowane grafki odbiegają od standardów projektowania webowego
 - Na etapie ustaleń doszliśmy do kolejnych założeń: finalny efekt powinien być czysty, nowoczesny, przejrzysty; Konieczne było zerwanie z projektem graficznym pocztówki i zaprojektowanie całego rozwiązania na nowo.
+- Czas. Nie było możliwości całkowitej zmiany przygotowanych grafik. Nowy projekt musiał mieć tę samą bazę, ale całkowicie nową otoczkę.
 
 
 ### 3. Nowy projekt
-- 
+- Przygotowanie nowej strony uwzględniająć kolejne założenia.
+- Konpecja dalej zakłada "list-pocztówkę", idealnie pasującym do formatu i gotowych materiałów.
+- Do podkreślenia koncepcji listu wykorzystano animacje "typewriter" - efekt pisania. Dzięki temu strona stała się przyjemniejsza wizualnie.
+
+<img src="images/casestudy/sketch_xd_2.png?raw=true"/>
 
 
 ### 4. Gotowa strona
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+
+Gotowa strona wyeulowała na etapie projektu. 
 
 <img src="images/casestudy/1.png?raw=true"/>
 
