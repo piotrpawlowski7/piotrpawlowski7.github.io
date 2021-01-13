@@ -55,5 +55,5 @@ Gotowa strona wyeulowała na etapie projektu.
 
 
 
-Całą stronę można obejrzeć [tutaj](https://piotrpawlowski7.github.io/bfswieta/),
-a jej kod jest dostępny [tutaj](https://github.com/piotrpawlowski7/bfswieta/)
+**Całą stronę można obejrzeć [tutaj](https://piotrpawlowski7.github.io/bfswieta/),
+a jej kod jest dostępny [tutaj](https://github.com/piotrpawlowski7/bfswieta/)**
