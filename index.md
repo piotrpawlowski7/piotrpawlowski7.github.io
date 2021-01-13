@@ -2,8 +2,6 @@
 
 ---
 
-### Projekty
-
 [Case Study Pocztówki od agencji](/bfswieta_casestudy)
 <img src="images/casestudy/1.png?raw=true"/>
 
