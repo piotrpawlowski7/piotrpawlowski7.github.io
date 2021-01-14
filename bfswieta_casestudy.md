@@ -54,11 +54,8 @@ Gotowa strona wyeulowała na etapie projektu.
 
 <img src="images/casestudy/bf3.gif?raw=true"/>
 
-<img src="images/casestudy/3.png?raw=true"/>
-
-
 <img src="images/casestudy/4.png?raw=true"/>
-
+<img src="images/casestudy/bf_4.gif?raw=true"/>
 
 
 **Całą stronę można obejrzeć [tutaj](https://piotrpawlowski7.github.io/bfswieta/),
