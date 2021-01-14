@@ -52,7 +52,7 @@ Gotowa strona wyeulowała na etapie projektu.
 <img src="images/casestudy/2.png?raw=true"/>
 
 
-<img src="images/casestudy/bf2.gif?raw=true"/>
+<img src="images/casestudy/bf3.gif?raw=true"/>
 
 <img src="images/casestudy/3.png?raw=true"/>
 
