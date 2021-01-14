@@ -18,7 +18,7 @@
 - zapewnienie responsywności strony (Desktop+mobile)
 
 Całość projektu wyglądała następująco:
-<img src="images/casestudy/kartka.png?raw=true"/>
+<img class="lazyload" src="images/casestudy/kartka.png?raw=true"/>
 
 
 ### 2. Wyzwania
@@ -39,7 +39,7 @@ Dla należytej kolejności pracy wykonałem szkic w Adobe Xd, który wyglądał 
 - wykorzystanie grafiki z kieliszkami z projektu pocztówki (do zaanimowania na dalszym etapie)
 - dalszy redesign treści - została podzielona na więcej akapitów; wyróżniono też nagłównki dla lepszego efektu wizualnego i lepszego przyswojenia dużej ilości treści
 
-<img src="images/casestudy/sketch_xd_2.png?raw=true"/>
+<img class="lazyload" src="images/casestudy/sketch_xd_2.png?raw=true"/>
 
 
 ### 4. Gotowa strona
@@ -50,9 +50,9 @@ Gotowa strona jeszcze bardziej wyeulowała w trakcie kodowania:
 - wykorzystano gotowe animacje (animate.css) oraz napisano własne skrypty (css/js): zaanimowano otwarcie strony oraz zderzanie się w stanie ciągłym kieliszków, co podkreśla wyskakujące "Zdrówko!"; animację otrzymały pojawiające się grafiki.
 - Do podkreślenia koncepcji listu wykorzystano animacje typu "typewriter" - efekt pisania. Dzięki temu strona stała się przyjemniejsza wizualnie. Ilość treści mniej przytłacza.
 
-<img src="images/casestudy/bf3.gif?raw=true"/>
-<img src="images/casestudy/bf_6.gif?raw=true"/>
-<img src="images/casestudy/bf_4.gif?raw=true"/>
+<img class="lazyload" src="images/casestudy/bf3.gif?raw=true"/>
+<img class="lazyload" src="images/casestudy/bf_6.gif?raw=true"/>
+<img class="lazyload" src="images/casestudy/bf_4.gif?raw=true"/>
 
 **Wyzwania w projekcie:**
 - przygotowanie plików graficznych do animacji (svg)
@@ -62,3 +62,5 @@ Gotowa strona jeszcze bardziej wyeulowała w trakcie kodowania:
 
 **Całą stronę można obejrzeć [tutaj](https://piotrpawlowski7.github.io/bfswieta/),
 a jej kod jest dostępny [tutaj](https://github.com/piotrpawlowski7/bfswieta/)**
+
+<script src="lazysizes.min.js" async=""></script>
