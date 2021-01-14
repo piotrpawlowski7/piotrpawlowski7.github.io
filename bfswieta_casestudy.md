@@ -53,6 +53,12 @@ Gotowa strona wyeulowała na etapie projektu.
 <img src="images/casestudy/bf_6.gif?raw=true"/>
 <img src="images/casestudy/bf_4.gif?raw=true"/>
 
+**Wyzwania w projekcie:**
+- przygotowanie plików graficznych do animacji (svg)
+- zmiana koncepcji w trakcie realizacji oraz jednoczesna praca nad designem+kodem w wąskim przedziale czasu (dowiezienie przed Świętami)
+- wykorzystanie JavaScriptu do triggerowania animacji po pokazaniu slajdu na ekranie (domyślnie animacje były triggerowane po wpisaniu adresu)
+- nienajlepsze wyświetlanie grafik na mobile'u (docelowo powinny zostać zakodowane oddzielnie)
+- 
 
 **Całą stronę można obejrzeć [tutaj](https://piotrpawlowski7.github.io/bfswieta/),
 a jej kod jest dostępny [tutaj](https://github.com/piotrpawlowski7/bfswieta/)**
