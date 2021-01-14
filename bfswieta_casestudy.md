@@ -46,10 +46,7 @@ Dla należytej kolejności pracy wykonałem szkic w Adobe Xd, który wyglądał 
 
 Gotowa strona wyeulowała na etapie projektu. 
 
-
-
 <img src="images/casestudy/bf3.gif?raw=true"/>
-
 <img src="images/casestudy/4.png?raw=true"/>
 <img src="images/casestudy/bf_4.gif?raw=true"/>
 
