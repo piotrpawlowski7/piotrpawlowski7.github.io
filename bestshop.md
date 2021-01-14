@@ -21,5 +21,5 @@ Link do projektu [Projekt BestShop w Adobe Xd](https://xd.adobe.com/view/31804ad
 
 ![](images/bestshop/bestshop_8.gif)
 
-**Gotowy projekt zobaczysz [tutaj](https://piotrpawlowski7.github.io/Bestshop/), a kod [tutaj](https://github.com/piotrpawlowski7/Bestshop/).**
+**Gotowy projekt moża zobaczyć [tutaj](https://piotrpawlowski7.github.io/Bestshop/), a kod [tutaj](https://github.com/piotrpawlowski7/Bestshop/).**
 
