@@ -3,7 +3,7 @@
 ---
 
 [Case Study Pocztówki od agencji](/bfswieta_casestudy)
-<img src="images/casestudy/1.png?raw=true"/>
+<img src="images/casestudy/bf1.gif?raw=true"/>
 
 ---
 
