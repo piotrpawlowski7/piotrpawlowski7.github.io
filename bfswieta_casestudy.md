@@ -6,6 +6,8 @@
 
 **Wykorzystane dodatkowe oprogramowanie:** Adobe Illustrator, Adobe Xd
 
+**[Gotowa strona](https://piotrpawlowski7.github.io/bfswieta/), [kod strony](https://github.com/piotrpawlowski7/bfswieta/)**
+
 ### 1. Założenia projektu
 
 
