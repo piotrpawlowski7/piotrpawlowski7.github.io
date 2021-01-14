@@ -45,9 +45,12 @@ Dla należytej kolejności pracy wykonałem szkic w Adobe Xd, który wyglądał 
 ### 4. Gotowa strona
 
 Gotowa strona wyeulowała na etapie projektu. 
+- tekst podzielono na więcej bloków
+- grafiki pełny oddzielny slajd (odejście od pierwotnego planu i koncepcji)
+- wykorzystano gotowe animacje (animate.css) oraz napisano własne skrypty (css/js)
 
 <img src="images/casestudy/bf3.gif?raw=true"/>
-<img src="images/casestudy/4.png?raw=true"/>
+<img src="images/casestudy/bf_6.gif?raw=true"/>
 <img src="images/casestudy/bf_4.gif?raw=true"/>
 
 
