@@ -16,7 +16,7 @@ Podczas kodowania layoutu wykorzystano program Adobe Xd. Link do projektu [Proje
 
 
 ![](images/bestshop/bestshop3_hq2.gif)
-
+![](images/bestshop/bestshop_8.gif)
 
 **Gotowy projekt zobaczysz [tutaj](https://piotrpawlowski7.github.io/Bestshop/), a kod [tutaj](https://github.com/piotrpawlowski7/Bestshop/).**
 
